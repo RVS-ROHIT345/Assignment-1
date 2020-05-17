@@ -1,2 +1,2 @@
 # codecademy
-assingment
+assignment
